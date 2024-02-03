@@ -1,5 +1,7 @@
 # Microsoft-SQL-Server-Project
+
 Project: Querying a Large Relational Database.
+
 I am done this project at Intellipaat Solution Pvt. Ltd. as an Trainee.
 
 In this project, I worked on downloading a database and restoring it on the server. Subsequently, I queried the database to retrieve customer details such as name, phone number, email ID, sales made in a specific month, month-on-month sales increase, and the total amount made for a particular customer.
